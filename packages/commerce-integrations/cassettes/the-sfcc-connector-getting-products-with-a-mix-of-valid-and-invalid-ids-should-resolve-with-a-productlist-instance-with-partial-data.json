@@ -1,0 +1,45 @@
+[
+    {
+        "scope": "https://zzrf-001.sandbox.us01.dx.commercecloud.salesforce.com:443",
+        "method": "GET",
+        "path": "/s/RefArch/dw/shop/v20_4/products/(008884303989M,008884303996M,1,2)?expand=availability%2Cprices%2Cvariations%2Cimages&all_images=true",
+        "body": "",
+        "status": 200,
+        "response": [
+            "1f8b0800000000000000ec5a6b6fdb3614fd2b9c3e3b7af9290343b166eb80620582a6db8a0c854049b4cd45af91941d27c87fdfa5243fe2784ee4b90e6db0f9524a975757e71e1e5f01e7c1f0a7c6d0706db363b40c5fcc7302cb9c6551110a9f115ec4026e8459910a63e8b68c080b6c0cff7ad88c95410563240de770f1f7eb9fe1028de0bfb63d180c3a6dbbed0dbc4ff26282c7c41fb3acc8f993446b3716615b02e016869286c6558c054d8b04bd8f0b82ae05a339e1e817cce7e81233823e50214884ae279409d482bf18b3727b44b91f604efc98a6b790682244ce879645a23131e126176333cc9284b0908471564426c731e1a30cd6f28615cdacb2146bea5a37379f3ff8b6ed58596a4524c1693483879b5c4071a175615d5341f805ce73b81a5f241721c0176763881d61801672b5bb5e180cdaa32a27b7ca32adab5f4dc776dcb6eb74cd8f1fffe8395fbf9a5737e6dff918de60a3f0fb7b36ba801aa0ce340ab23bb3e0b088ee76bfc5310b1654c4a479cf8cc7d6b977dfe9f4db61c7c32f83f95e8deeef51f0deddffd632a694cc160ca85af88c13df4d32fe9c001aca3247ebc6eec61d4e3cd4e68156909778206504330a5bb3d4c702760585d8108a2d018b0126cce28c1932073cf4c55d7e19b6088798fa65a08cb7d6b3164a48448b443d0e7bae436cc7f11694a8ea5459ccf6a9588129485502389d60d003d05e01a7322ad6bce2430d4275178f3e09a9ca1e2d1f471f8654a5821692d39d878e2e6b2dc4131cc7eab138b03d87f4dc70c189b24c95f56c8f8215988614ed7e3f6a0ffac1a0fb32988a48d81e051f6a14aa5a78f4494851e668dd38f218a4280fb4829cea0cf4567a36c3229ca847e460d4e9bbf6ea3ba9aa732b312eaf9460f23e159f29952b4ec9cb349d9254646c6e0cd778bbbc08dc15f064affcd732021cde662c220c071296118e39a98b5deef1e5b7e75a906005c4e48c3cdfc84516defa31999278f18c476049968efd88f0104096af08c97fcba60465054344221e4ac47916d3087109384dc7efd0970949d198d671bcee104682cd7f809b94235e04d04c14c80e56f7119511290d6153f928243234c19083a6682ef30003391108d8876619bbcd630cb13382190202222a10d49ec216992780653692a909a05bee2177826104ac8585300197047341d83ad6f595031d0e6e7d26a39f18d01a4e3b9f64391c76dbef58b515805b6ed7eedafd76efd33b5033bf3a093fca162d8bf3cb762ee3b63713203386fdae69dbd0b084a67e19e3ff53e0148e0c90c96919294e1a1f1d785a2e45f54cdb5fbedb5e9a623c451dcece04729e2b4ec0c3fc2999aad3f2ccdb522d6b99953e184950a06491871b069755d016254dc5d10ee0aa266feb21dc79d85acbf7de30f078e5415dfd2a2c7e321eea1f91d5af01804befe58bc36f9ef1b83ecebc15121dbb6d1f0a8932576324ec9e2a4874fa87430272354762a00a12b6d70409cf33e57cf21f48d8de1ea7a3a30612a539ef603a31d807095b0d243ab67330c52c73354742199d70db8743027235d709793a0ef47953cf8997fb7dedd4bbab2fae2d106cf91adaece0f6f2ca575de6bfae56fb15d7d9555889e5ee9236f3f576e7eb35cd37d89d6fd0341f28c6ae8452501a26747727741b27dcdd12a7714b9cdd3d91caf1ede98179adf4b68cd07f1e11fa8c8c684a12f8e8beacefceea3310fa6bfbe57246233181f5cd93b77abd3dbc9a2eb53d5cdb3cb53d5c9b3bb53d5ceb86b6876b05d1f6706d0fd7fe4e6d0fd7ae4e6d0fd7f2712ac390aa54d04272baf390b6876b9ba7b6876b73a7b6876bdd38913148511e680539d51948dbc3b53dfc5ca8dcd41eee4877c9f7f4863ba5cf581bc3b531fc4cdbaf8de16f640cf77aab206d0cd7c6706d0cd7c6706d0cd7c6706d0cd7c6706d0cd7c670558de1eeff3486bbc686311c4a1099c0f0b1ed3efe0b0000ffff",
+            "0300dd1b26ef7b5c0000"
+        ],
+        "rawHeaders": [
+            "accept-ranges",
+            "bytes",
+            "x-dw-request-base-id",
+            "QQElLym8c1_OxTMK",
+            "allow",
+            "GET,HEAD,OPTIONS",
+            "x-dw-version-status",
+            "deprecated",
+            "x-content-type-options",
+            "nosniff",
+            "cache-control",
+            "max-age=0,no-cache,no-store,must-revalidate",
+            "jweb",
+            "y",
+            "vary",
+            "accept-encoding",
+            "content-encoding",
+            "gzip",
+            "content-type",
+            "application/json;charset=UTF-8",
+            "date",
+            "Tue, 29 Sep 2020 22:58:49 UTC",
+            "server",
+            "istio-envoy",
+            "x-envoy-upstream-service-time",
+            "38",
+            "connection",
+            "close",
+            "transfer-encoding",
+            "chunked"
+        ]
+    }
+]
