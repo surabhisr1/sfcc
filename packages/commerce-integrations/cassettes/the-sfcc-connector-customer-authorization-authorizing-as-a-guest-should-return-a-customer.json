@@ -1,0 +1,52 @@
+[
+    {
+        "scope": "https://zzrf-001.sandbox.us01.dx.commercecloud.salesforce.com:443",
+        "method": "POST",
+        "path": "/s/RefArch/dw/shop/v20_4/customers/auth",
+        "body": {
+            "type": "guest"
+        },
+        "status": 200,
+        "response": {
+            "_v": "20.4",
+            "_type": "customer",
+            "auth_type": "guest",
+            "customer_id": "abpR81DGieypAKNNO61RATVruz",
+            "preferred_locale": "en_US"
+        },
+        "rawHeaders": [
+            "accept-ranges",
+            "bytes",
+            "x-dw-request-base-id",
+            "QQEtLyy8c1_OxTMK",
+            "authorization",
+            "Bearer eyJfdiI6IjEiLCJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfdiI6IjEiLCJleHAiOjE2MDE0MjIxMzIsImlhdCI6MTYwMTQyMDMzMiwiaXNzIjoiYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhYWFhIiwic3ViIjoie1wiX3ZcIjpcIjFcIixcImN1c3RvbWVyX2luZm9cIjp7XCJjdXN0b21lcl9pZFwiOlwiYWJwUjgxREdpZXlwQUtOTk82MVJBVFZydXpcIixcImd1ZXN0XCI6dHJ1ZSxcInZpc2l0X2lkXCI6XCJlYzRhNDMyMDg5OTU0NjU3N2UwMjE5NmQ2NFwifX0ifQ.dl8XgldAVo8SGRDrrSAdnbD_tnRnfYwIrohjhsPW78JgTif2kukQqnB74RgKHRx6U5CTBee8ktTVwqnmtguRT3fzLYlOHDF1bMqto6ZCOpSmVHPyvxtzI7y1KHAKSLNUOeSfdkPCh7scjKmbiuzeHOQI38pvTfH4j3oaucbjiNjwkUGCPs_LS_JYaTNhkdqjlRDBcyYo3h8ArKx_5YJK18aynZ00coTdezBKLTzMb7ByQTjiYk7tOi-7SSgrri89gY8EIYV9uqACQCuRVCbuc1GYu0OFr_RipfeglkIeO9tSFneyECtAPQ_Ly1PDNzHvg2RmGyL-zAHEVFgt1gk50zYSk-sX8QSCVHpTPZZBfdS9okARuuH2_pOzYA0DKp4RVXTBLid62ZBeg0io22QEK59q2kxaOJDtqzPWmOf5tZGXw41lX-QyrQpA82VzdUma00bp8JuUk7-LmBjmQOThZxuinWlwfit_OjoF2XwX8dokxgj37tHyx3OqAnigzUB_lAz8GzHejnaWe8uCVnYlPINK9q_4MD4DKYFp8Ffihd41Ho1z7gGBq3SedCZ4MHcl",
+            "allow",
+            "DELETE,OPTIONS,POST",
+            "x-content-type-options",
+            "nosniff",
+            "x-dw-version-status",
+            "deprecated",
+            "cache-control",
+            "no-cache, no-store, must-revalidate",
+            "pragma",
+            "no-cache",
+            "expires",
+            "Thu, 01 Dec 1994 16:00:00 GMT",
+            "jweb",
+            "y",
+            "content-type",
+            "application/json;charset=UTF-8",
+            "content-length",
+            "122",
+            "date",
+            "Tue, 29 Sep 2020 22:58:51 UTC",
+            "server",
+            "istio-envoy",
+            "x-envoy-upstream-service-time",
+            "21",
+            "connection",
+            "close"
+        ]
+    }
+]
